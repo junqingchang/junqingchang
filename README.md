@@ -10,9 +10,9 @@ I'm Jun Qing
 <!--   <img align="center" src="https://komarev.com/ghpvc/?username=junqingchang&style=flat-square&color=blue" alt=""/>   -->
 </div>
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;" align="center">
  <img class="img" src="https://github-readme-stats-9pb9.vercel.app/api/top-langs/?username=junqingchang&layout=donut&theme=dracula" />
- <img class="img" src="https://github-readme-stats-9pb9.vercel.app/api?username=junqingchang&show_icons=true&theme=dracula" />
+<!--  <img class="img" src="https://github-readme-stats-9pb9.vercel.app/api?username=junqingchang&show_icons=true&theme=dracula" /> -->
 </div>
 
 
