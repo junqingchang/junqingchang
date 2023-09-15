@@ -10,8 +10,10 @@ I'm Jun Qing
 <!--   <img align="center" src="https://komarev.com/ghpvc/?username=junqingchang&style=flat-square&color=blue" alt=""/>   -->
 </div>
 
-[![Top Langs](https://github-readme-stats-9pb9.vercel.app/api/top-langs/?username=junqingchang&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-9pb9.vercel.app/api?username=junqingchang&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats-9pb9.vercel.app/api/top-langs/?username=junqingchang&layout=donut&theme=dracula" />
+ <img class="img" src="https://github-readme-stats-9pb9.vercel.app/api?username=junqingchang&show_icons=true&theme=dracula" />
+</div>
 
 
 <!--
