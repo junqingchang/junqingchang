@@ -7,7 +7,7 @@ I'm Jun Qing
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br />
-  <img align="center" src="https://komarev.com/ghpvc/?username=junqingchang&style=flat-square&color=blue" alt=""/>  
+<!--   <img align="center" src="https://komarev.com/ghpvc/?username=junqingchang&style=flat-square&color=blue" alt=""/>   -->
 </div>
 
 [![Top Langs](https://github-readme-stats-9pb9.vercel.app/api/top-langs/?username=junqingchang)](https://github.com/anuraghazra/github-readme-stats)
