@@ -10,7 +10,9 @@ I'm Jun Qing
   <img align="center" src="https://komarev.com/ghpvc/?username=junqingchang&style=flat-square&color=blue" alt=""/>  
 </div>
 
+<div align="center">
 [![Top Langs](github-readme-stats-9pb9-637nbx9yt-junqingchang.vercel.app/api/top-langs/?username=junqingchang)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--
 **junqingchang/junqingchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
