@@ -11,7 +11,7 @@ I'm Jun Qing
 </div>
 
 [![Top Langs](https://github-readme-stats-9pb9.vercel.app/api/top-langs/?username=junqingchang&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-9pb9.vercel.app/api?username=junqingchang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-9pb9.vercel.app/api?username=junqingchang&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
