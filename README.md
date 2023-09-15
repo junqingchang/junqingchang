@@ -1,20 +1,29 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">
   Hey there!
 I'm Jun Qing
-</h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/junqingchang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <br />
-<!--   <img align="center" src="https://komarev.com/ghpvc/?username=junqingchang&style=flat-square&color=blue" alt=""/>   -->
 </div>
+</h1>
 
 <div style="display: flex; flex-direction: row;" align="center">
  <img class="img" src="https://github-readme-stats-9pb9.vercel.app/api/top-langs/?username=junqingchang&layout=donut&theme=dracula" />
-<!--  <img class="img" src="https://github-readme-stats-9pb9.vercel.app/api?username=junqingchang&show_icons=true&theme=dracula" /> -->
 </div>
 
+<br/>
+
+-  I am a Data Scientist based in Singapore
+
+-  Currently pursuing my PhD in Artificial Intelligence at Nanyang Technological University
+
+-  Working at Advanced Micro Devices Singapore
+
+-  Graduated from Singapore University of Technology and Design in 2019 with a Bachelor of Engineering (Information Systems Technology and Design) specializing in Artificial Intelligence
 
 <!--
 **junqingchang/junqingchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
