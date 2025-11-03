@@ -19,7 +19,7 @@ I'm Jun Qing
 
 -  I am a Data Scientist based in Singapore
 
--  Currently pursuing my PhD in Artificial Intelligence at Nanyang Technological University
+-  Graduated PhD in Artificial Intelligence at Nanyang Technological University
 
 -  Working at Advanced Micro Devices Singapore
 
